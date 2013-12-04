@@ -1,0 +1,4 @@
+causidicus
+==========
+
+Software for lawyers
